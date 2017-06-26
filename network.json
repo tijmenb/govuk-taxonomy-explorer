@@ -1,0 +1,1369 @@
+{
+  "nodes": [
+    {
+      "id": "Education, training and skills",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Special educational needs and disability (SEND) and high needs",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Funding for high needs",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Support for special educational needs and disability (SEND) ",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Funding for special educational needs and disability (SEND)",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Further and higher education, skills and vocational training",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Further education funding",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Administering student funding",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Apprenticeships funding",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Adult education funding",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Further education buildings and land",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Free meals for 16 to 18 year olds",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Dance and drama funding for 16 to 19 year olds",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "European Social Fund (ESF) and skills funding",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Further education funding data",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Education in prisons",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Careers guidance in further and higher education",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Running a further or higher education institution",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Further education financial management and data collection",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Local authority further education financial reporting and assurance",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Financial management for further education providers",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Data collection for further education providers",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Further and higher education courses and qualifications",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Functional skills",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Principal learning qualifications",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Learning Records Service (LRS)",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Apprenticeships, traineeships and internships",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Types of apprenticeships",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Hiring and training an intern or trainee",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Hiring and training an apprentice",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Becoming an intern or trainee",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Becoming an apprentice",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Adult and community learning",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Running and managing a school",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Data collection and censuses for schools",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School censuses and school-level annual school censuses (SLASC)",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School capacity surveys",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Alternative provision censuses",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School workforce censuses",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School preference and admission appeals data collection",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Special educational needs surveys",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School exclusion reviews",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Phonics screening checks",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Parental responsibility measures attendance censuses",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Key stage 1 and 2 assessments data collection",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "General hospital school censuses",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School to school support",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School admissions",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School complaints and whistleblowing",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School food, accommodation, transport and uniform",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Recruiting and managing non-teaching school staff",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School buildings and land",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School buildings and land transactions",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School buildings and land guidelines",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Setting up or changing the status of a school",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Set up and develop a multi-academy trust (MAT)",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Set up a free school",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Set up or convert to an academy",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School trips and extracurricular activity",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School planning",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Careers guidance in schools",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School governance",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Pupil wellbeing, behaviour and attendance",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School discipline and exclusions",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School attendance and absence",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Alternative provision and pupil referral units",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School bullying",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Health, safety and wellbeing in schools",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Safeguarding pupils",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Teaching and leadership",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Teacher training and professional development",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Initial Teacher Training (ITT)",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Qualified Teacher Status (QTS)",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School leadership",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Recruiting, inducting and managing teachers",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Teaching standards, misconduct and practice",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Teacher records",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Teacher pay, pensions and conditions",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Funding and finance for students",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Student loans",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Financial help for students who are parents or carers",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Student grants, bursaries and scholarships",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School and academy financial management and assurance",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Local authority schools financial reporting and assurance",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Financial management, reporting and assurances for 16 to 19 year olds funding",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Academy and academy trust finance and reporting",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School procurement",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Education of disadvantaged children",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School curriculum",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Primary curriculum, key stage 2",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Programmes of study (key stage 2)",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Science (key stage 2)",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "English (key stage 2)",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Maths (key stage 2)",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Tests and assessments (key stage 2)",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Primary curriculum, key stage 1",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Programmes of study (key stage 1)",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Science (key stage 1)",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Maths (key stage 1)",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Tests and assessments (key stage 1)",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Phonics",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Early years curriculum",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Exam regulation and administration",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Secondary curriculum, key stage 3 and key stage 4 (GCSEs)",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "GCSE changes and reforms",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Key stage 3 and 4 exam marking, qualifications and results",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "GCSE subject content and requirements",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Spiritual, moral, social and cultural development",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Personal, social, health and economic education",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Key stage 5 (AS and A Levels)",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "AS and A level changes and reforms",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Key stage 5 exam marking, qualifications and results",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "AS and A level subject content and requirements",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Inspections and performance of education providers",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Inspection and performance of schools",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Inspection of local authority support for schools",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School performance tables and Ofsted reports",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Pupil performance in schools",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School performance measures",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Inspection of British schools overseas",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Inspection of boarding and residential schools",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Inspection of independent schools",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Inspection of maintained schools and academies",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Inspection of non-maintained schools",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Inspection and performance of further education providers",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Student performance in further education",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Further education provider performance measures",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Performance data and Ofsted reports of further education providers",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Further education intervention notices and reports",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Inspection of residential provision in further education colleges",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Inspection of further education and skills providers",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Starting and attending school",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Home schooling",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Help with school costs",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Dealing with problems at school",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Sending a child to school",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School and academy funding",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Initial Teacher Training funding",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Subject Knowledge Enhancement (SKE) funding",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "School Direct funding",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Funding for school places",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Schools forums",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Pupil premium and other school premiums ",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Free school meals (FSM) funding ",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Funding for school buildings and land",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Funding for different types of schools and settings",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Alternative provision funding",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Special schools funding",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Local authority schools funding",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Funding for 16 to 19 year olds in schools",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Academy funding",
+      "group": "Education, training and skills"
+    },
+    {
+      "id": "Early years funding",
+      "group": "Education, training and skills"
+    }
+  ],
+  "links": [
+    {
+      "source": "Special educational needs and disability (SEND) and high needs",
+      "target": "Education, training and skills",
+      "value": 1
+    },
+    {
+      "source": "Special educational needs and disability (SEND) and high needs",
+      "target": "Funding for high needs",
+      "value": 1
+    },
+    {
+      "source": "Special educational needs and disability (SEND) and high needs",
+      "target": "Support for special educational needs and disability (SEND) ",
+      "value": 1
+    },
+    {
+      "source": "Special educational needs and disability (SEND) and high needs",
+      "target": "Funding for special educational needs and disability (SEND)",
+      "value": 1
+    },
+    {
+      "source": "Further and higher education, skills and vocational training",
+      "target": "Education, training and skills",
+      "value": 1
+    },
+    {
+      "source": "Further and higher education, skills and vocational training",
+      "target": "Further education funding",
+      "value": 1
+    },
+    {
+      "source": "Further education funding",
+      "target": "Administering student funding",
+      "value": 1
+    },
+    {
+      "source": "Further education funding",
+      "target": "Apprenticeships funding",
+      "value": 1
+    },
+    {
+      "source": "Further education funding",
+      "target": "Adult education funding",
+      "value": 1
+    },
+    {
+      "source": "Further education funding",
+      "target": "Further education buildings and land",
+      "value": 1
+    },
+    {
+      "source": "Further education funding",
+      "target": "Free meals for 16 to 18 year olds",
+      "value": 1
+    },
+    {
+      "source": "Further education funding",
+      "target": "Dance and drama funding for 16 to 19 year olds",
+      "value": 1
+    },
+    {
+      "source": "Further education funding",
+      "target": "European Social Fund (ESF) and skills funding",
+      "value": 1
+    },
+    {
+      "source": "Further education funding",
+      "target": "Further education funding data",
+      "value": 1
+    },
+    {
+      "source": "Further and higher education, skills and vocational training",
+      "target": "Education in prisons",
+      "value": 1
+    },
+    {
+      "source": "Further and higher education, skills and vocational training",
+      "target": "Careers guidance in further and higher education",
+      "value": 1
+    },
+    {
+      "source": "Further and higher education, skills and vocational training",
+      "target": "Running a further or higher education institution",
+      "value": 1
+    },
+    {
+      "source": "Further and higher education, skills and vocational training",
+      "target": "Further education financial management and data collection",
+      "value": 1
+    },
+    {
+      "source": "Further education financial management and data collection",
+      "target": "Local authority further education financial reporting and assurance",
+      "value": 1
+    },
+    {
+      "source": "Further education financial management and data collection",
+      "target": "Financial management for further education providers",
+      "value": 1
+    },
+    {
+      "source": "Further education financial management and data collection",
+      "target": "Data collection for further education providers",
+      "value": 1
+    },
+    {
+      "source": "Further and higher education, skills and vocational training",
+      "target": "Further and higher education courses and qualifications",
+      "value": 1
+    },
+    {
+      "source": "Further and higher education courses and qualifications",
+      "target": "Functional skills",
+      "value": 1
+    },
+    {
+      "source": "Further and higher education courses and qualifications",
+      "target": "Principal learning qualifications",
+      "value": 1
+    },
+    {
+      "source": "Further and higher education, skills and vocational training",
+      "target": "Learning Records Service (LRS)",
+      "value": 1
+    },
+    {
+      "source": "Further and higher education, skills and vocational training",
+      "target": "Apprenticeships, traineeships and internships",
+      "value": 1
+    },
+    {
+      "source": "Apprenticeships, traineeships and internships",
+      "target": "Types of apprenticeships",
+      "value": 1
+    },
+    {
+      "source": "Apprenticeships, traineeships and internships",
+      "target": "Hiring and training an intern or trainee",
+      "value": 1
+    },
+    {
+      "source": "Apprenticeships, traineeships and internships",
+      "target": "Hiring and training an apprentice",
+      "value": 1
+    },
+    {
+      "source": "Apprenticeships, traineeships and internships",
+      "target": "Becoming an intern or trainee",
+      "value": 1
+    },
+    {
+      "source": "Apprenticeships, traineeships and internships",
+      "target": "Becoming an apprentice",
+      "value": 1
+    },
+    {
+      "source": "Further and higher education, skills and vocational training",
+      "target": "Adult and community learning",
+      "value": 1
+    },
+    {
+      "source": "Running and managing a school",
+      "target": "Education, training and skills",
+      "value": 1
+    },
+    {
+      "source": "Running and managing a school",
+      "target": "Data collection and censuses for schools",
+      "value": 1
+    },
+    {
+      "source": "Data collection and censuses for schools",
+      "target": "School censuses and school-level annual school censuses (SLASC)",
+      "value": 1
+    },
+    {
+      "source": "Data collection and censuses for schools",
+      "target": "School capacity surveys",
+      "value": 1
+    },
+    {
+      "source": "Data collection and censuses for schools",
+      "target": "Alternative provision censuses",
+      "value": 1
+    },
+    {
+      "source": "Data collection and censuses for schools",
+      "target": "School workforce censuses",
+      "value": 1
+    },
+    {
+      "source": "Data collection and censuses for schools",
+      "target": "School preference and admission appeals data collection",
+      "value": 1
+    },
+    {
+      "source": "Data collection and censuses for schools",
+      "target": "Special educational needs surveys",
+      "value": 1
+    },
+    {
+      "source": "Data collection and censuses for schools",
+      "target": "School exclusion reviews",
+      "value": 1
+    },
+    {
+      "source": "Data collection and censuses for schools",
+      "target": "Phonics screening checks",
+      "value": 1
+    },
+    {
+      "source": "Data collection and censuses for schools",
+      "target": "Parental responsibility measures attendance censuses",
+      "value": 1
+    },
+    {
+      "source": "Data collection and censuses for schools",
+      "target": "Key stage 1 and 2 assessments data collection",
+      "value": 1
+    },
+    {
+      "source": "Data collection and censuses for schools",
+      "target": "General hospital school censuses",
+      "value": 1
+    },
+    {
+      "source": "Running and managing a school",
+      "target": "School to school support",
+      "value": 1
+    },
+    {
+      "source": "Running and managing a school",
+      "target": "School admissions",
+      "value": 1
+    },
+    {
+      "source": "Running and managing a school",
+      "target": "School complaints and whistleblowing",
+      "value": 1
+    },
+    {
+      "source": "Running and managing a school",
+      "target": "School food, accommodation, transport and uniform",
+      "value": 1
+    },
+    {
+      "source": "Running and managing a school",
+      "target": "Recruiting and managing non-teaching school staff",
+      "value": 1
+    },
+    {
+      "source": "Running and managing a school",
+      "target": "School buildings and land",
+      "value": 1
+    },
+    {
+      "source": "School buildings and land",
+      "target": "School buildings and land transactions",
+      "value": 1
+    },
+    {
+      "source": "School buildings and land",
+      "target": "School buildings and land guidelines",
+      "value": 1
+    },
+    {
+      "source": "Running and managing a school",
+      "target": "Setting up or changing the status of a school",
+      "value": 1
+    },
+    {
+      "source": "Setting up or changing the status of a school",
+      "target": "Set up and develop a multi-academy trust (MAT)",
+      "value": 1
+    },
+    {
+      "source": "Setting up or changing the status of a school",
+      "target": "Set up a free school",
+      "value": 1
+    },
+    {
+      "source": "Setting up or changing the status of a school",
+      "target": "Set up or convert to an academy",
+      "value": 1
+    },
+    {
+      "source": "Running and managing a school",
+      "target": "School trips and extracurricular activity",
+      "value": 1
+    },
+    {
+      "source": "Running and managing a school",
+      "target": "School planning",
+      "value": 1
+    },
+    {
+      "source": "Running and managing a school",
+      "target": "Careers guidance in schools",
+      "value": 1
+    },
+    {
+      "source": "Running and managing a school",
+      "target": "School governance",
+      "value": 1
+    },
+    {
+      "source": "Pupil wellbeing, behaviour and attendance",
+      "target": "Education, training and skills",
+      "value": 1
+    },
+    {
+      "source": "Pupil wellbeing, behaviour and attendance",
+      "target": "School discipline and exclusions",
+      "value": 1
+    },
+    {
+      "source": "Pupil wellbeing, behaviour and attendance",
+      "target": "School attendance and absence",
+      "value": 1
+    },
+    {
+      "source": "Pupil wellbeing, behaviour and attendance",
+      "target": "Alternative provision and pupil referral units",
+      "value": 1
+    },
+    {
+      "source": "Pupil wellbeing, behaviour and attendance",
+      "target": "School bullying",
+      "value": 1
+    },
+    {
+      "source": "Pupil wellbeing, behaviour and attendance",
+      "target": "Health, safety and wellbeing in schools",
+      "value": 1
+    },
+    {
+      "source": "Pupil wellbeing, behaviour and attendance",
+      "target": "Safeguarding pupils",
+      "value": 1
+    },
+    {
+      "source": "Teaching and leadership",
+      "target": "Education, training and skills",
+      "value": 1
+    },
+    {
+      "source": "Teaching and leadership",
+      "target": "Teacher training and professional development",
+      "value": 1
+    },
+    {
+      "source": "Teacher training and professional development",
+      "target": "Initial Teacher Training (ITT)",
+      "value": 1
+    },
+    {
+      "source": "Teacher training and professional development",
+      "target": "Qualified Teacher Status (QTS)",
+      "value": 1
+    },
+    {
+      "source": "Teacher training and professional development",
+      "target": "School leadership",
+      "value": 1
+    },
+    {
+      "source": "Teaching and leadership",
+      "target": "Recruiting, inducting and managing teachers",
+      "value": 1
+    },
+    {
+      "source": "Teaching and leadership",
+      "target": "Teaching standards, misconduct and practice",
+      "value": 1
+    },
+    {
+      "source": "Teaching and leadership",
+      "target": "Teacher records",
+      "value": 1
+    },
+    {
+      "source": "Teaching and leadership",
+      "target": "Teacher pay, pensions and conditions",
+      "value": 1
+    },
+    {
+      "source": "Funding and finance for students",
+      "target": "Education, training and skills",
+      "value": 1
+    },
+    {
+      "source": "Funding and finance for students",
+      "target": "Student loans",
+      "value": 1
+    },
+    {
+      "source": "Funding and finance for students",
+      "target": "Financial help for students who are parents or carers",
+      "value": 1
+    },
+    {
+      "source": "Funding and finance for students",
+      "target": "Student grants, bursaries and scholarships",
+      "value": 1
+    },
+    {
+      "source": "School and academy financial management and assurance",
+      "target": "Education, training and skills",
+      "value": 1
+    },
+    {
+      "source": "School and academy financial management and assurance",
+      "target": "Local authority schools financial reporting and assurance",
+      "value": 1
+    },
+    {
+      "source": "School and academy financial management and assurance",
+      "target": "Financial management, reporting and assurances for 16 to 19 year olds funding",
+      "value": 1
+    },
+    {
+      "source": "School and academy financial management and assurance",
+      "target": "Academy and academy trust finance and reporting",
+      "value": 1
+    },
+    {
+      "source": "School and academy financial management and assurance",
+      "target": "School procurement",
+      "value": 1
+    },
+    {
+      "source": "Education of disadvantaged children",
+      "target": "Education, training and skills",
+      "value": 1
+    },
+    {
+      "source": "School curriculum",
+      "target": "Education, training and skills",
+      "value": 1
+    },
+    {
+      "source": "School curriculum",
+      "target": "Primary curriculum, key stage 2",
+      "value": 1
+    },
+    {
+      "source": "Primary curriculum, key stage 2",
+      "target": "Programmes of study (key stage 2)",
+      "value": 1
+    },
+    {
+      "source": "Primary curriculum, key stage 2",
+      "target": "Science (key stage 2)",
+      "value": 1
+    },
+    {
+      "source": "Primary curriculum, key stage 2",
+      "target": "English (key stage 2)",
+      "value": 1
+    },
+    {
+      "source": "Primary curriculum, key stage 2",
+      "target": "Maths (key stage 2)",
+      "value": 1
+    },
+    {
+      "source": "Primary curriculum, key stage 2",
+      "target": "Tests and assessments (key stage 2)",
+      "value": 1
+    },
+    {
+      "source": "School curriculum",
+      "target": "Primary curriculum, key stage 1",
+      "value": 1
+    },
+    {
+      "source": "Primary curriculum, key stage 1",
+      "target": "Programmes of study (key stage 1)",
+      "value": 1
+    },
+    {
+      "source": "Primary curriculum, key stage 1",
+      "target": "Science (key stage 1)",
+      "value": 1
+    },
+    {
+      "source": "Primary curriculum, key stage 1",
+      "target": "Maths (key stage 1)",
+      "value": 1
+    },
+    {
+      "source": "Primary curriculum, key stage 1",
+      "target": "Tests and assessments (key stage 1)",
+      "value": 1
+    },
+    {
+      "source": "Primary curriculum, key stage 1",
+      "target": "Phonics",
+      "value": 1
+    },
+    {
+      "source": "School curriculum",
+      "target": "Early years curriculum",
+      "value": 1
+    },
+    {
+      "source": "School curriculum",
+      "target": "Exam regulation and administration",
+      "value": 1
+    },
+    {
+      "source": "School curriculum",
+      "target": "Secondary curriculum, key stage 3 and key stage 4 (GCSEs)",
+      "value": 1
+    },
+    {
+      "source": "Secondary curriculum, key stage 3 and key stage 4 (GCSEs)",
+      "target": "GCSE changes and reforms",
+      "value": 1
+    },
+    {
+      "source": "Secondary curriculum, key stage 3 and key stage 4 (GCSEs)",
+      "target": "Key stage 3 and 4 exam marking, qualifications and results",
+      "value": 1
+    },
+    {
+      "source": "Secondary curriculum, key stage 3 and key stage 4 (GCSEs)",
+      "target": "GCSE subject content and requirements",
+      "value": 1
+    },
+    {
+      "source": "School curriculum",
+      "target": "Spiritual, moral, social and cultural development",
+      "value": 1
+    },
+    {
+      "source": "School curriculum",
+      "target": "Personal, social, health and economic education",
+      "value": 1
+    },
+    {
+      "source": "School curriculum",
+      "target": "Key stage 5 (AS and A Levels)",
+      "value": 1
+    },
+    {
+      "source": "Key stage 5 (AS and A Levels)",
+      "target": "AS and A level changes and reforms",
+      "value": 1
+    },
+    {
+      "source": "Key stage 5 (AS and A Levels)",
+      "target": "Key stage 5 exam marking, qualifications and results",
+      "value": 1
+    },
+    {
+      "source": "Key stage 5 (AS and A Levels)",
+      "target": "AS and A level subject content and requirements",
+      "value": 1
+    },
+    {
+      "source": "Inspections and performance of education providers",
+      "target": "Education, training and skills",
+      "value": 1
+    },
+    {
+      "source": "Inspections and performance of education providers",
+      "target": "Inspection and performance of schools",
+      "value": 1
+    },
+    {
+      "source": "Inspection and performance of schools",
+      "target": "Inspection of local authority support for schools",
+      "value": 1
+    },
+    {
+      "source": "Inspection and performance of schools",
+      "target": "School performance tables and Ofsted reports",
+      "value": 1
+    },
+    {
+      "source": "Inspection and performance of schools",
+      "target": "Pupil performance in schools",
+      "value": 1
+    },
+    {
+      "source": "Inspection and performance of schools",
+      "target": "School performance measures",
+      "value": 1
+    },
+    {
+      "source": "Inspection and performance of schools",
+      "target": "Inspection of British schools overseas",
+      "value": 1
+    },
+    {
+      "source": "Inspection and performance of schools",
+      "target": "Inspection of boarding and residential schools",
+      "value": 1
+    },
+    {
+      "source": "Inspection and performance of schools",
+      "target": "Inspection of independent schools",
+      "value": 1
+    },
+    {
+      "source": "Inspection and performance of schools",
+      "target": "Inspection of maintained schools and academies",
+      "value": 1
+    },
+    {
+      "source": "Inspection and performance of schools",
+      "target": "Inspection of non-maintained schools",
+      "value": 1
+    },
+    {
+      "source": "Inspections and performance of education providers",
+      "target": "Inspection and performance of further education providers",
+      "value": 1
+    },
+    {
+      "source": "Inspection and performance of further education providers",
+      "target": "Student performance in further education",
+      "value": 1
+    },
+    {
+      "source": "Inspection and performance of further education providers",
+      "target": "Further education provider performance measures",
+      "value": 1
+    },
+    {
+      "source": "Inspection and performance of further education providers",
+      "target": "Performance data and Ofsted reports of further education providers",
+      "value": 1
+    },
+    {
+      "source": "Inspection and performance of further education providers",
+      "target": "Further education intervention notices and reports",
+      "value": 1
+    },
+    {
+      "source": "Inspection and performance of further education providers",
+      "target": "Inspection of residential provision in further education colleges",
+      "value": 1
+    },
+    {
+      "source": "Inspection and performance of further education providers",
+      "target": "Inspection of further education and skills providers",
+      "value": 1
+    },
+    {
+      "source": "Starting and attending school",
+      "target": "Education, training and skills",
+      "value": 1
+    },
+    {
+      "source": "Starting and attending school",
+      "target": "Home schooling",
+      "value": 1
+    },
+    {
+      "source": "Starting and attending school",
+      "target": "Help with school costs",
+      "value": 1
+    },
+    {
+      "source": "Starting and attending school",
+      "target": "Dealing with problems at school",
+      "value": 1
+    },
+    {
+      "source": "Starting and attending school",
+      "target": "Sending a child to school",
+      "value": 1
+    },
+    {
+      "source": "School and academy funding",
+      "target": "Education, training and skills",
+      "value": 1
+    },
+    {
+      "source": "School and academy funding",
+      "target": "Initial Teacher Training funding",
+      "value": 1
+    },
+    {
+      "source": "Initial Teacher Training funding",
+      "target": "Subject Knowledge Enhancement (SKE) funding",
+      "value": 1
+    },
+    {
+      "source": "Initial Teacher Training funding",
+      "target": "School Direct funding",
+      "value": 1
+    },
+    {
+      "source": "School and academy funding",
+      "target": "Funding for school places",
+      "value": 1
+    },
+    {
+      "source": "School and academy funding",
+      "target": "Schools forums",
+      "value": 1
+    },
+    {
+      "source": "School and academy funding",
+      "target": "Pupil premium and other school premiums ",
+      "value": 1
+    },
+    {
+      "source": "School and academy funding",
+      "target": "Free school meals (FSM) funding ",
+      "value": 1
+    },
+    {
+      "source": "School and academy funding",
+      "target": "Funding for school buildings and land",
+      "value": 1
+    },
+    {
+      "source": "School and academy funding",
+      "target": "Funding for different types of schools and settings",
+      "value": 1
+    },
+    {
+      "source": "Funding for different types of schools and settings",
+      "target": "Alternative provision funding",
+      "value": 1
+    },
+    {
+      "source": "Funding for different types of schools and settings",
+      "target": "Special schools funding",
+      "value": 1
+    },
+    {
+      "source": "Funding for different types of schools and settings",
+      "target": "Local authority schools funding",
+      "value": 1
+    },
+    {
+      "source": "Funding for different types of schools and settings",
+      "target": "Funding for 16 to 19 year olds in schools",
+      "value": 1
+    },
+    {
+      "source": "Funding for different types of schools and settings",
+      "target": "Academy funding",
+      "value": 1
+    },
+    {
+      "source": "Funding for different types of schools and settings",
+      "target": "Early years funding",
+      "value": 1
+    }
+  ]
+}
