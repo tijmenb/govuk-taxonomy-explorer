@@ -11,6 +11,7 @@
 .nodes circle {
   stroke: #fff;
   stroke-width: 1.5px;
+  cursor: pointer;
 }
 
 </style>
@@ -46,6 +47,10 @@ d3.json("network.json", function(error, graph) {
     .enter().append("circle")
       .attr("r", 5)
       .attr("fill", function(d) { return color(d.group); })
+      .on("click", function (d) {
+        console.log(d["url"])
+        window.open(d["url"], '_blank' );
+      })
       .call(d3.drag()
           .on("start", dragstarted)
           .on("drag", dragged)

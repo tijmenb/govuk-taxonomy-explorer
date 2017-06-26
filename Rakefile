@@ -2,7 +2,7 @@ require 'http'
 require 'json'
 
 def build_node(taxon, root_taxon)
-  { id: taxon["title"], group: root_taxon["title"] }
+  { id: taxon["title"], url: "https://www.gov.uk" + taxon["base_path"], group: root_taxon["title"] }
 end
 
 task :generate_network do
